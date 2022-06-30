@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7da3681e38d49641a49b635eff3c103, type: 3}
+  m_Name: Egglet
+  m_EditorClassIdentifier: 
+  Name: Egglet
+  Power: 8
+  Prefab: {fileID: 1743697289779458693, guid: 8edba63cc7c0d6641b6140162f8ebda3, type: 3}
+  Type: Basic
+  Color:
+    serializedVersion: 2
+    rgba: 4294946048
+  Price: 600
+  Sprite: {fileID: 21300000, guid: 197939106dd080845b4f3f7b54032281, type: 3}
